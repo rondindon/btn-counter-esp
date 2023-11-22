@@ -1,3 +1,5 @@
+#pragma once
+
 #define DISPLAY_H
 
 #include <driver/gpio.h>

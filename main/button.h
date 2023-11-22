@@ -1,3 +1,5 @@
+#pragma once
+
 #define BUTTON_H
 
 #include "driver/gpio.h"

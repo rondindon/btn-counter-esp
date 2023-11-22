@@ -1,3 +1,5 @@
+#pragma once
+
 #define LED_H
 
 #include "driver/gpio.h"
